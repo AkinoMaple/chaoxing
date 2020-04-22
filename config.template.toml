@@ -1,0 +1,12 @@
+[account]
+   cookie = ""  
+
+[settings]
+    routines = 8
+    fetch_id = [[1, 2147483647, 1]]
+
+[mongodb]
+    apply_uri = "mongodb://localhost:27017"
+    database = ""
+    collection = ""
+
